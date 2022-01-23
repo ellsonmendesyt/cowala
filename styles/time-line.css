@@ -51,6 +51,7 @@ header{
   position: relative;
   background-color: inherit;
   width: 50%;
+  transition:all ease 2s;
 }
 
 /* The circles on the timeline */
@@ -113,6 +114,7 @@ header{
   background-color: white;
   position: relative;
   border-radius: 6px;
+ 
 }
 
 .ex{
